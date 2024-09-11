@@ -2,7 +2,7 @@ package com.tests;
 
 import org.testng.annotations.Test;
 
-public class test1 {
+public class test123 {
 
 	@Test
 	public void test123() {
